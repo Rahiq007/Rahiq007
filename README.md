@@ -1,4 +1,6 @@
-Rahiq Majeed
+** Rahiq Majeed**
+
+
 🎓 BS in Computer Science, California State University, Monterey Bay (Graduated May 2024)
 📊 Passionate Data Scientist | Machine Learning Enthusiast
 About Me
