@@ -10,7 +10,6 @@ I'm a recent graduate with a strong foundation in data science and computer scie
 
 
 Skills & Expertise
-
 Data Analysis & Machine Learning: Python, NumPy, Pandas, Scikit-Learn, TensorFlow
 Data Visualization
 Predictive Modeling
@@ -19,7 +18,6 @@ Computer Vision
 End-to-end Data Pipeline Development
 
 Current Focus
-
 I'm actively working on projects in:
 
 Natural Language Processing
@@ -32,5 +30,4 @@ Interests
 When I'm not diving into data, I enjoy staying active and exploring the outdoors.
 
 Let's Connect!
-
 I'm always eager to connect with fellow tech enthusiasts, problem-solvers, and those interested in leveraging data analytics to build better systems. If you'd like to collaborate or chat about data science, feel free to reach out!
