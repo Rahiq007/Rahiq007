@@ -4,11 +4,13 @@ Rahiq Majeed
 📊 Passionate Data Scientist | Machine Learning Enthusiast
 
 
-About Me: 
+About Me
+
 I'm a recent graduate with a strong foundation in data science and computer science. My passion lies in leveraging data to uncover insights and create innovative solutions to real-world problems.
 
 
-Skills & Expertise: 
+Skills & Expertise
+
 Data Analysis & Machine Learning: Python, NumPy, Pandas, Scikit-Learn, TensorFlow
 Data Visualization
 Predictive Modeling
