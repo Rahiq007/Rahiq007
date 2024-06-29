@@ -1,7 +1,27 @@
-Hi there 👋 I'm Rahiq Majeed, a data science student at California State University, Monterey Bay pursuing a BS in Computer Science. I'm passionate about using data to uncover insights and create innovative solutions to real-world problems.
+Rahiq Majeed
+🎓 BS in Computer Science, California State University, Monterey Bay (Graduated May 2024)
+📊 Passionate Data Scientist | Machine Learning Enthusiast
+About Me
+I'm a recent graduate with a strong foundation in data science and computer science. My passion lies in leveraging data to uncover insights and create innovative solutions to real-world problems.
+Skills & Expertise
 
-As a multidisciplinary student, I leverage my background in computer science, statistics, and business to build end-to-end data pipelines. I have experience working with Python for machine learning and data analysis using libraries like NumPy, Pandas, Scikit-Learn, and TensorFlow.
+Data Analysis & Machine Learning: Python, NumPy, Pandas, Scikit-Learn, TensorFlow
+Data Visualization
+Predictive Modeling
+Natural Language Processing
+Computer Vision
+End-to-end Data Pipeline Development
 
-Currently, I'm working on projects in natural language processing, computer vision, predictive modeling, and data visualization. My goal is to continue growing as a data scientist and one day apply my skills to make meaningful impacts in healthcare, education, or sustainability.
+Current Focus
+I'm actively working on projects in:
 
-Outside of data science, I enjoy staying active and being outdoors. I'm always eager to connect with others who share my interests in technology, problem-solving, and building better systems through data analytics. Feel free to reach out if you'd like to collaborate!
+Natural Language Processing
+Computer Vision
+Predictive Modeling
+Data Visualization
+
+My goal is to continue growing as a data scientist and apply my skills to make meaningful impacts in fields such as healthcare, education, or sustainability.
+Interests
+When I'm not diving into data, I enjoy staying active and exploring the outdoors.
+Let's Connect!
+I'm always eager to connect with fellow tech enthusiasts, problem-solvers, and those interested in leveraging data analytics to build better systems. If you'd like to collaborate or chat about data science, feel free to reach out!
