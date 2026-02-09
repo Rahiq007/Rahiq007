@@ -10,7 +10,7 @@
 
 > **MS Computer Science Student @ UMass Amherst** | **Software Engineer @ Innovative Configuration**
 
-I'm a passionate Software Engineer with **3+ years of experience** building scalable web applications, mobile solutions, and AI-powered systems. Currently pursuing my **Master's in Computer Science** at UMass Amherst while contributing to cutting-edge technology solutions.
+I'm a passionate Software Engineer with **2+ years of experience** building scalable web applications, mobile solutions, and AI-powered systems. Currently pursuing my **Master's in Computer Science** at UMass Amherst while contributing to cutting-edge technology solutions.
 
 🎯 **Impact-Driven Development**: From serving **2M+ users** at Mozilla Firefox to architecting dashboards for **50K+ monthly active users** at Innovative Configuration.
 
